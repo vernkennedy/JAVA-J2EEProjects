@@ -8,8 +8,8 @@ var PHPProjectSPortfolio =
       "owner": {       
         "avatar_url": "https://vzidana.files.wordpress.com/2014/12/378863_10150412548993267_1726019535_n-copy.jpg", 
       },           
-      "description": "https://github.com/redguide/nodejs",      
-      "code_url": "https://api.github.com/repos/redguide/nodejs",
+      "description": "https://github.com/vernkennedy/Facilities-Maintainance-Portal/blob/master/description.txt",      
+      "code_url": "https://github.com/vernkennedy/Facilities-Maintainance-Portal",
 	 "demo_url": "https://www.youtube.com/watch?v=lJM2oFMoDkM",
       "frontend_infor": "Html5,Html5 Drag and Drop API,CSS3,JavaScript,jQuery",      
       "backend_infor": "Php5,MySQL,MS Excel"    
@@ -21,8 +21,8 @@ var PHPProjectSPortfolio =
       "owner": {       
         "avatar_url": "https://vzidana.files.wordpress.com/2014/12/4.jpg", 
       },           
-      "description": "https://github.com/redguide/nodejs",      
-      "code_url": "https://api.github.com/repos/redguide/nodejs", 
+      "description": "https://github.com/vernkennedy/Client-Infor-System/blob/master/description.txt",      
+      "code_url": "https://github.com/vernkennedy/Client-Infor-System", 
 	  "demo_url": "https://www.youtube.com/watch?v=lJM2oFMoDkM",
       "frontend_infor": "html",      
       "backend_infor": "mysql"  
@@ -34,8 +34,8 @@ var PHPProjectSPortfolio =
       "owner": {       
         "avatar_url": "https://vzidana.files.wordpress.com/2014/12/starbacks-copy.jpg", 
       },           
-      "description": "https://github.com/redguide/nodejs",      
-      "code_url": "https://api.github.com/repos/redguide/nodejs", 
+      "description": "https://github.com/vernkennedy/Spring-Hibernate-Calculator/blob/master/description.txt",      
+      "code_url": "https://github.com/vernkennedy/Spring-Hibernate-Calculator", 
 	  "demo_url": "https://www.youtube.com/watch?v=lJM2oFMoDkM",
       "frontend_infor": "html",      
       "backend_infor": "mysql"  
@@ -47,8 +47,8 @@ var PHPProjectSPortfolio =
       "owner": {       
         "avatar_url": "https://vzidana.files.wordpress.com/2014/12/1.jpg", 
       },           
-      "description": "https://github.com/redguide/nodejs",      
-      "code_url": "https://api.github.com/repos/redguide/nodejs",  
+      "description": "https://github.com/vernkennedy/StrutsCalculator/blob/master/description.txt",      
+      "code_url": "https://github.com/vernkennedy/StrutsCalculator",  
 	   "demo_url": "https://www.youtube.com/watch?v=lJM2oFMoDkM",
       "frontend_infor": "html",      
       "backend_infor": "mysql"  
