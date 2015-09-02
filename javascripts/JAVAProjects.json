@@ -14,7 +14,7 @@
   
   {
     "project_name" : "Spring, Struts, Hibernate Calculator",    
-    "avatar_url" : "https://vzidana.files.wordpress.com/2014/12/starbacks-copy.jpg",
+    "avatar_url" : "Calculator.png",
 	"description" : "https://github.com/vernkennedy/Spring-Hibernate-Calculator/blob/master/description.txt",
 	"summary" : "A basic calculator application that does calculations and also save operations and results in the database",
     "code_url" : "https://github.com/vernkennedy/Spring-Hibernate-Calculator",
