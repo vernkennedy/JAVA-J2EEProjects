@@ -22,6 +22,17 @@
 	"frontend_infor" : "Html5,JSP,JSTL,CSS3, Google fonts",
     "backend_infor" : "Spring, Struts, Hibernate,OracleDB",
     "demotype" : "Video Demo"
-  }
+  },
+    {
+    "project_name" : "#",    
+    "avatar_url" : "#",
+	"description" : "#",
+	"summary" : "#",
+    "code_url" : "#",
+    "demo_url" : "#",
+	"frontend_infor" : "Html5,JSP,JSTL,Java,CSS3,jQuery,Google PieChart and Table",
+    "backend_infor" : "SpringMVC,SpringJDBC Template,Java,OracleDB",
+    "demotype" : "Video Demo"
+  },
 ]
 }
