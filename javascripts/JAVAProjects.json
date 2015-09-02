@@ -1,0 +1,27 @@
+{
+"records": [
+  {
+    "project_name" : "Project Portfolio Tracker (J2EE)",    
+    "avatar_url" : "Tracker.png",
+	"description" : "https://github.com/vernkennedy/Tracker/blob/master/description.txt",
+	"summary" : "A web portal that allows clients to make and track their work order requests and also allow company employees to respond to work order requrests",
+    "code_url" : "https://github.com/vernkennedy/Tracker/tree/master",
+    "demo_url" : "#",
+	"frontend_infor" : "Html5,JSP,JSTL,Java,CSS3,jQuery,Google PieChart and Table",
+    "backend_infor" : "SpringMVC,SpringJDBC Template,Java,OracleDB",
+    "demotype" : "Video Demo"
+  },
+  
+  {
+    "project_name" : "Spring, Struts, Hibernate Calculator",    
+    "avatar_url" : "https://vzidana.files.wordpress.com/2014/12/starbacks-copy.jpg",
+	"description" : "https://github.com/vernkennedy/Spring-Hibernate-Calculator/blob/master/description.txt",
+	"summary" : "A basic calculator application that does calculations and also save operations and results in the database",
+    "code_url" : "https://github.com/vernkennedy/Spring-Hibernate-Calculator",
+    "demo_url" : "#",
+	"frontend_infor" : "Html5,JSP,JSTL,CSS3, Google fonts",
+    "backend_infor" : "Spring, Struts, Hibernate,OracleDB",
+    "demotype" : "Video Demo"
+  }
+]
+}
