@@ -24,13 +24,13 @@
     "demotype" : "Video Demo"
   },
     {
-    "project_name" : "#",    
+    "project_name" : "ScotBoard(J2ee) [AVAILABLE SOON]",    
     "avatar_url" : "#",
 	"description" : "#",
-	"summary" : "#",
+	"summary" : "A Rule Based Expert System / web portal for academic planning and exploration of student opportunities at The College of Wooster",
     "code_url" : "#",
     "demo_url" : "#",
-	"frontend_infor" : "Html5,JSP,JSTL,Java,CSS3,jQuery,Google PieChart and Table",
+	"frontend_infor" : "Html5,CSS3,JavaScript,Html5 Drag and Drop API, JSP,JSTL",
     "backend_infor" : "SpringMVC,SpringJDBC Template,Java,OracleDB",
     "demotype" : "Video Demo"
   }
