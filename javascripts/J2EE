@@ -7,7 +7,7 @@
 	"summary" : "A web portal for tracking information on all projects from a central location. Has reporting features for managerment to evaluate priorities",
     "code_url" : "https://github.com/vernkennedy/Tracker/tree/master",
     "demo_url" : "#",
-	"frontend_infor" : "Html5,JSP,JSTL,Java,CSS3,jQuery,Google PieChart and Table",
+	"frontend_infor" : "Html5,JSP,JSTL,Java,CSS3,jQuery,Google Pie Charts and Google Table Charts",
     "backend_infor" : "SpringMVC,SpringJDBC Template,Java,OracleDB",
     "demotype" : "Video Demo"
   },
