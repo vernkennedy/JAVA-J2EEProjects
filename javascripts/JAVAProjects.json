@@ -4,7 +4,7 @@
     "project_name" : "Project Portfolio Tracker (J2EE)",    
     "avatar_url" : "Tracker.png",
 	"description" : "https://github.com/vernkennedy/Tracker/blob/master/description.txt",
-	"summary" : "A web portal that allows clients to make and track their work order requests and also allow company employees to respond to work order requrests",
+	"summary" : "A web portal for tracking information on all projects from a central location. Has reporting features for managerment to evaluate priorities",",
     "code_url" : "https://github.com/vernkennedy/Tracker/tree/master",
     "demo_url" : "#",
 	"frontend_infor" : "Html5,JSP,JSTL,Java,CSS3,jQuery,Google PieChart and Table",
