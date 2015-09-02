@@ -33,6 +33,6 @@
 	"frontend_infor" : "Html5,JSP,JSTL,Java,CSS3,jQuery,Google PieChart and Table",
     "backend_infor" : "SpringMVC,SpringJDBC Template,Java,OracleDB",
     "demotype" : "Video Demo"
-  },
+  }
 ]
 }
